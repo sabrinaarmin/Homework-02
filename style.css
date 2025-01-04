@@ -1,0 +1,49 @@
+h1{
+  text-align: center;
+  font-size: 30px;
+  color: blueviolet;
+  background-color: beige;
+}
+h2{text-align: center;
+  color: rgb(23, 86, 179);
+  font-size: 25px;
+}
+.wrapper{
+  width: 60%;
+  margin: 0 auto;
+  border: 5px solid rgb(18, 84, 183);
+  padding: 10px 10px;
+
+}
+.name,.email{
+  width: 90%;
+  padding: 5px;
+}
+.message{
+  padding: 10px;
+}
+label{font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+.button{
+  width: 80px;
+  font-size: 15px;
+}
+input{
+  
+}
+table{
+  width: 100%;
+  border: 2px solid rgb(76, 166, 239);
+  border-collapse: collapse; 
+  background-color: beige;
+}
+tr,td,th{
+  border: 1px solid  rgb(81, 148, 203);
+
+}
+th{
+  background-color: aqua;
+
+}
